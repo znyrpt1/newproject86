@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
           add github
+          add github 2
         </a>
       </header>
     </div>
